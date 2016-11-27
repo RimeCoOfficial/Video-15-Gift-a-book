@@ -1,0 +1,48 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.3-c011 66.146729, 2012/05/03-13:40:03        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+   xmpDM:videoFrameRate="29.970030"
+   xmpDM:videoFieldOrder="Upper"
+   xmpDM:videoPixelAspectRatio="3/2"
+   xmpDM:previewRenderOriginalHadNoAlpha="True"
+   xmpDM:startTimeScale="30000"
+   xmpDM:startTimeSampleSize="1001"
+   dc:format="P2 Movie"
+   xmp:CreateDate="2015-02-09T12:51:33+05:30"
+   xmp:ModifyDate="2015-02-09T12:52:05+05:30"
+   xmp:MetadataDate="2015-02-09T12:52:05+05:30"
+   xmpMM:InstanceID="xmp.iid:1C404A840A2068118083BB1185178083"
+   xmpMM:DocumentID="xmp.did:8493084E082068118083BB1185178083"
+   xmpMM:OriginalDocumentID="xmp.did:8493084E082068118083BB1185178083">
+   <xmpDM:videoFrameSize
+    stDim:w="1280"
+    stDim:h="1080"
+    stDim:unit="pixel"/>
+   <xmpDM:duration
+    xmpDM:value="29"
+    xmpDM:scale="1001/30000"/>
+   <xmpDM:startTimecode
+    xmpDM:timeFormat="2997NonDropTimecode"
+    xmpDM:timeValue="00:00:00:00"/>
+   <xmpDM:altTimecode
+    xmpDM:timeValue="00:00:00:00"
+    xmpDM:timeFormat="2997NonDropTimecode"/>
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:1C404A840A2068118083BB1185178083"
+      stEvt:when="2015-02-09T12:52:05+05:30"
+      stEvt:softwareAgent="Adobe Premiere Pro CS6 (Macintosh)"
+      stEvt:changed="/"/>
+    </rdf:Seq>
+   </xmpMM:History>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
