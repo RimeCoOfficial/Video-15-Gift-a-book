@@ -1,3 +1,3 @@
 # Gift a book
 
-[ ![](Screen Shot 2016-11-27 at 10.07.30 PM.png) ](https://vimeo.com/119442379)
+[ ![](Screen%20Shot%202016-11-27%20at%2010.07.30%20PM.png) ](https://vimeo.com/119442379)
